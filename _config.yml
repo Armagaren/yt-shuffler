@@ -6,4 +6,4 @@ author:
 description: "Shuffle YouTube videos without automatic pausing."
 
 # Build settings
-remote_theme: jekyll/minima
+remote_theme: https://github.com/sujaykundu777/devlopr-jekyll@v0.4.9
