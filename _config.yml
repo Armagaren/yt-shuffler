@@ -1,9 +1,0 @@
-# Site settings
-title: YouTube Shuffler
-author:
-  name: Armagaren
-  email: armagaren@gmail.com
-description: "Shuffle YouTube videos without automatic pausing."
-
-# Build settings
-remote_theme: https://github.com/sujaykundu777/devlopr-jekyll@v0.4.9
